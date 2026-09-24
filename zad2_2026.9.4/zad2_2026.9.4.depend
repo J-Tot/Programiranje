@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790256567 source:c:\users\ucenik\desktop\zad2_2026.9.4\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
